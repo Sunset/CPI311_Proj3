@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\bin\x86\Debug\Common.dll
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\bin\x86\Debug\Common.pdb
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\obj\x86\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\obj\x86\Debug\Common.dll
+C:\Users\Owner\Documents\CPI311\Assignment3\Common\obj\x86\Debug\Common.pdb

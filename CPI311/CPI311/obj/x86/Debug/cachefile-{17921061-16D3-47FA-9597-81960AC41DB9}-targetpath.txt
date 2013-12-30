@@ -1,0 +1,21 @@
+Content\Textures\Bomb.xnb
+Content\Textures\HeightMap.xnb
+Content\Textures\Jellyfish.xnb
+Content\Textures\Stripes.xnb
+Content\Textures\Green.xnb
+Content\Textures\Red.xnb
+Content\Fonts\SegoeUI.xnb
+Content\Models\Torus.xnb
+Content\Models\Cube.xnb
+Content\Models\Cube and Torus.xnb
+Content\Models\Sphere.xnb
+Content\Models\Dude\Dude.xnb
+Content\Effects\SimpleEffect.xnb
+Content\Sounds\applause.xnb
+Content\Sounds\gun1.xnb
+Content\Songs\Calm.xnb
+Content\Songs\Calm.wma
+Content\Models\Dude\head_0.xnb
+Content\Models\Dude\jacket_0.xnb
+Content\Models\Dude\pants_0.xnb
+Content\Models\Dude\upBodyC_0.xnb
